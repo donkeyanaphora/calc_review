@@ -18,11 +18,3 @@
 |   14 | Jan 19–25    | **Lec 37 — Taylor Series**                          | **Text 14.4** to p. 498 (bottom); **14.3** to p. 490 (top) & examples 1–5; **skip** remainder (R_n(x))                                                          | Build/apply Taylor polynomials (short set)                         | Linearization intuition ↔ tangent planes                          |
 
 ---
-
-### Notes
-
-* “**Notes C/X/G/F**” etc. are the short MIT handouts referenced in the 18.01 materials.
-* Keep sessions short and consistent. If a week feels light/heavy, just bump a few Stewart problems to the next week.
-* Optional: in the last two weeks, skim **Stewart Ch. 10.1–10.3** (vectors, dot/cross, lines/planes) so day-one of Calc 3 is a breeze.
-
-If you want, I can drop this Markdown into your canvas or export a pretty PDF.
