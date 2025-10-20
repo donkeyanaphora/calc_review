@@ -1,4 +1,4 @@
-# Calc Prep Plan
+# Calc 3 Prep Plan
 
 **14 Weeks • Oct 20, 2025 – Jan 25, 2026**
 
@@ -118,7 +118,7 @@
 
 **MIT Reading:** Text 4.5
 
-**Stewart Practice:** Ch 3 (3.7) related rates (6–8)
+**Stewart Practice:** Ch 2 (2.7) related rates (6–8)
 
 **Calc 3 Bridge:** Motion/rate intuition helps in 3D
 
@@ -160,7 +160,7 @@
 
 **MIT Reading:** Text 10.2, 10.3
 
-**Stewart Practice:** Ch 6 (6.2–6.3) 10–12 trig integrals & trig-sub
+**Stewart Practice:** Ch 6 (6.2) 10–12 trig integrals & trig-sub
 
 **Calc 3 Bridge:** Comfort with polar/cylindrical forms
 
@@ -174,7 +174,7 @@
 
 **MIT Reading:** Text 10.6 • Notes F • Text 12.4 • Notes INT
 
-**Stewart Practice:** Ch 6 (6.4, 6.6) partial fractions + 4–5 improper integrals
+**Stewart Practice:** Ch 6 (6.3, 6.6) partial fractions + 4–5 improper integrals
 
 **Calc 3 Bridge:** Cleaner algebra in applications
 
