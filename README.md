@@ -62,7 +62,10 @@
 
 **MIT Reading:** Text 3.5 • Notes G §5 • Text 9.5 (bottom pp. 913–915)
 
+**Stewart Readings:** 2.6 (Implicit differentiation), 5.1-5.4
+
 **Stewart Practice:** Ch 2 & 5 implicit differentiation + inverse derivatives (10–12)
+
 
 **Calc 3 Bridge:** Tangent planes as "implicit" surfaces
 
