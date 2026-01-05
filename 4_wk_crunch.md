@@ -6,18 +6,13 @@
 
 ### **Final Sprint**
 
-### **Week 1 — Foundations + Visualization**
+### **Week 1 Curve Sketching & Optimization**
 **Dec 29 – Jan 4**
 
 **Lecture 10 — Curve Sketching**  
 - **Read:** Text 4.1, 4.2  
 - Focus on: increasing/decreasing, concavity, asymptotes  
 - Goal: rebuild intuition and graph-reading confidence
-
----
-
-### **Week 2 — Highest ROI**
-**Jan 5 – Jan 11**
 
 **Lecture 11 — Max–Min (Optimization)**  
 - **Read:** Text 4.3, 4.4  
@@ -26,10 +21,8 @@
 
 ---
 
-### **Week 3 — Integrals = Meaning + Setup**
-**Jan 12 – Jan 18**
-
-**Lecture 18 + 19 — Definite Integrals + FTC (treat as one unit)**  
+### **Week 2 — Integrals**
+**Jan 5 – Jan 11**
 
 **Lecture 18 — Definite Integrals**  
 - **Read:** Text 6.3 through formula (4) (skip proofs)  
@@ -40,19 +33,29 @@
 - **Read:** Text 6.7 to top p. 215  
 - **Skip:** Proof pp. 207–208
 
+Goal this week: understand **what integrals represent**, not just how to compute them.
+
 ---
 
-### **Week 4 — Harder Setup Topics + Fresh Review**
-**Jan 19 – Jan 25**
+### **Week 3 — Coordinate Systems**
+**Jan 12 – Jan 18**
 
 **Lecture 32 — Polar Coordinates**  
 (prep for double integrals later)  
 - **Read:** Text 16.1  
 - **Skim:** Text 16.2 (pictures only)  
 - **Read:** Text 16.3 to top p. 570  
-- **Read:** Text 16.5 to middle p. 581  
+- **Read:** Text 16.5 to middle p. 581
+
+Focus on: translating regions + interpreting \( r \), not memorizing formulas.
+
+---
+
+### **Week 4 — Parametric Equations**
+**Jan 19 – Jan 25**
 
 **Lecture 31 — Parametric Equations (refresher)**  
 - **Read:** Text 17.1, 7.5, 7.6  
-- **Focus:** Geometry + r(t), v(t), speed  
-- Light review; don’t get stuck on arc length algebra
+- **Focus:** Geometry + position, velocity, speed  
+- Treat as review; don’t get stuck on arc length algebra
+
